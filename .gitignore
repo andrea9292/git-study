@@ -1,1 +1,4 @@
 .gh-auth-*.txt
+.pptx-build/
+*.pptx.inspect.ndjson
+바이브-코더를-위한-GitHub-발표자료_2026-08-13/
